@@ -11,6 +11,7 @@ body{
 }
 .section1{
  margin: 15px 100px 0px 100px;
+ width: 100%;
 }
 .header{
  display: flex;
@@ -32,7 +33,6 @@ body{
 }
 .navbar ul{
  display: flex;
- 
 }
 .navbar a{
  text-decoration: none;
@@ -42,6 +42,9 @@ body{
 .navbar li:hover{
  text-decoration: underline;
  cursor: pointer;
+}
+.hamburger{
+ display: none;
 }
 .button1{
  Width: 166px;
@@ -57,6 +60,7 @@ font-size: 16px;
 }
 .section2{
  margin-left: 100px;
+ width: 100%;
 }
 .subsection2{
  display: flex;
@@ -185,6 +189,8 @@ background-color: rgba(196, 196, 196, 0.05);
  margin-left: 100px;
  border: none;
 }
+
+/* styling of the footer section */
 .section3{
  /* width: 2100px; */
  height: 120px;
@@ -192,6 +198,7 @@ background-color: rgba(196, 196, 196, 0.05);
  background-repeat: repeat;
  margin-top: 600px;
  background-size: 600px;
+ width: 100%;
 }
 .footer{
  background-color:#0A0B36;
