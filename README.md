@@ -9,3 +9,5 @@ The Second sub section next the image element and inside the image element is se
 The footer has a background of afrosound beneath and anchor tag nexted in a list to direct people to the social handles.
 
 All assests used are entailed in this folder.
+
+My experience on this first assessment was challenging but took me from a novist level to an enthusiast beginner stage.
