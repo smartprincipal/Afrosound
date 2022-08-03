@@ -118,11 +118,11 @@ main{
 
 /* THIS IS THE STYLING OF THE CONTAINER INSIDE THE BURNA BOY IMAGE */
 .burnaBoy img{
- margin-top: 41px;
-width: 100%;
+margin-top: 41px;
+max-width: 100%;
 height: auto;
 opacity: 0.2;
-margin-left: 65px;
+margin-left: 160px;
 }
 .subburna{
  width: 369px;
@@ -271,13 +271,13 @@ footer{
  }
  .subburna{
   position: absolute;
- left: 100px;
+ left: 170px;
  top: 630px;
  }
  .burnaBoy img{
   margin-top: 21px;
- width: 100%;
- margin-left: 15px;
+ max-width: 100%;
+ margin-left: 0px;
 }
 .subburna{
  width: 200px;
