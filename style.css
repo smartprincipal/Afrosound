@@ -87,18 +87,15 @@ main{
  height: 48px;
  border-radius: 5px;
  background-color: #CDCBD6;
- Padding: 11px, 16px, 11px, 16px;
-}
-.section2 .text::placeholder{
- color:#4F4F4F;
+ border: none;
+ padding: 5px 5px 5px 16px;
  font-size: 16px;
  line-height: 27px;
  font-family: avenir;
- padding-left: 16px;
+ font-family: avenir;
  opacity: 50%;
- letter-spacing: 1%;
- line-height: 27px;
  font-weight: 400px;
+ color:#4F4F4F;
 }
 .section2 .button2{
  background-color: #D9592A;
@@ -253,12 +250,12 @@ footer{
   margin-top: 30px;
   width: auto;
   height: 165px;
-  font-size: 24px;
-  line-height: 30px;
+  font-size: 28px;
+  line-height: 40px;
  }
  .section2 p{
   width: auto;
-  height: 115px;
+  /* height: 130px; */
   opacity: 80%;
   font-size: 16px;
   line-height: 23px;
